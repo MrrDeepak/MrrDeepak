@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak
   
 - 👀 I’m interested in:
-  Developing dynamic webapp.
+  Developing dynamic web applications.
   
 - 🌱 I’m currently learning:
   Tailwind CSS, JavaScript, Reachjs, Nextjs.
